@@ -34,7 +34,7 @@ Product details: Category, Subcategory
 
 Sales and Order Amounts
 
-##Process:
+## Process:
 
 Data Cleaning & Preparation:
 
@@ -50,7 +50,7 @@ Designed Charts (bar, column, pie, line) for visualisation
 
 Added Slicers/Filters for interactive exploration
 
-Insights Generation:
+## Insights Generation:
 
 Identified top-performing cities, customer segments, and product categories
 
@@ -58,4 +58,5 @@ Tracked order delivery efficiency
 
 Highlighted trends in sales and customer behaviour
 ##Dashboard 
+<a href ="https://github.com/sudipto18/Dashboard---E-Commerce-Business-/blob/main/Screenshot%202025-09-21%20112937.png">View Dashboard</a>
 https://github.com/sudipto18/Dashboard---E-Commerce-Business-/blob/main/Screenshot%202025-09-21%20112937.png
