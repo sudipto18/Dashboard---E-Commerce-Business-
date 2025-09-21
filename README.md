@@ -2,25 +2,31 @@
 ## The main goal of this project was to analyze the performance of an online business and present insights through a clear, interactive Excel dashboard. The dashboard helps track sales, orders, customer behavior, and delivery performance to support data-driven business decisions.
 ## Data Used
 - <a href="https://github.com/sudipto18/Dashboard---E-Commerce-Business-/blob/main/Dashboard%20-%20E-Commerce%20Business%20-%201st%20project.xlsx">Dataset</a>
-Project Scope & Key Metrics:
+Sure! Here’s a set of KPI-related questions based on your dashboard data:
 
-Total Sales: 21,176K
+## KPI Questions
 
-Total Orders: 31,047
+What is the total sales recorded in the dashboard?
 
-Average Sales per Order: 682
+How many total orders were processed?
 
-City-wise performance (Top 5 cities)
+What is the average sales per order, and how is it calculated?
 
-Men vs Women sales ratio
+Which top 5 cities contributed most to sales?
 
-Age group & gender-wise order trends
+What is the Men vs Women sales ratio, and which group generated higher revenue?
 
-Order delivery status (delivered, pending, canceled)
+Which age group had the highest number of orders?
 
-Interactive filters by division & category
+How do age group & gender trends help in understanding customer behaviour?
 
-Data Collection & Source:
+What percentage of orders were delivered, pending, or cancelled?
+
+How do interactive filters by division and category help in analysing KPIs?
+
+Based on these KPIs, what key business insights can be drawn to improve performance?
+
+## Data Collection & Source:
 
 Data was collected from an E-commerce dataset (can be simulated or exported from platforms like Shopify, WooCommerce, or Kaggle sample datasets).
 
@@ -38,7 +44,7 @@ Sales and Order Amounts
 
 Data Cleaning & Preparation:
 
-Removed duplicates, standardized names, handled missing values
+Removed duplicates, standardised names, and handled missing values
 
 Calculated additional metrics (e.g., Average Sales per Order)
 
@@ -57,6 +63,5 @@ Identified top-performing cities, customer segments, and product categories
 Tracked order delivery efficiency
 
 Highlighted trends in sales and customer behaviour
-##Dashboard 
+## Dashboard 
 <a href ="https://github.com/sudipto18/Dashboard---E-Commerce-Business-/blob/main/Screenshot%202025-09-21%20112937.png">View Dashboard</a>
-https://github.com/sudipto18/Dashboard---E-Commerce-Business-/blob/main/Screenshot%202025-09-21%20112937.png
